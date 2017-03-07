@@ -1,0 +1,2 @@
+# compact
+Compactador de secuencias
